@@ -12,12 +12,12 @@ public class SelectionSort {
 		
 	}
 	
-	public static void sortLowToHigh(ArrayList<Comparable> a)
+	public static void sortLowToHigh(ArrayList<Integer> a)
 	{
 		
 	}
 	
-	public static void sortHighToLow(ArrayList<Comparable> a)
+	public static void sortHighToLow(ArrayList<Integer> a)
 	{
 		
 	}
